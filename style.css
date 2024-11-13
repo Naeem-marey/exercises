@@ -1,0 +1,39 @@
+body {
+    background-color: bisque;
+
+}
+
+div {
+    background-color: white;
+    margin: auto;
+    width: 40vw;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    border-radius: 2%;
+}
+
+img {
+
+    width: 80%;
+    border-radius: 2%;
+
+}
+
+
+.color {
+    color: rgb(87, 16, 16);
+
+}
+
+h3 {
+
+    color: rgb(61, 18, 61);
+
+}
+
+
+
