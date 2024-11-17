@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+.sticky {
+    width: 100vw;
+    height: 500vh;
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.search-bar{
+position: sticky;
+top: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.main{
+    display: flex;
+    align-items: center;
+}
+
+
